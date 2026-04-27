@@ -102,9 +102,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aj-6396&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ambuj's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aj-6396&theme=tokyonight&hide_border=true&background=0D1117" alt="Ambuj's GitHub Streak" width="48%" />
 </div>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/aj-6396/bg_theme.svg" alt="Profile Views" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aj-6396&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
@@ -114,3 +111,6 @@
 <p align="center">
   <i>Let's build something extraordinary.</i>
 </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=aj-6396&label=Profile%20Views&color=00BFFF&style=for-the-badge" alt="Ambuj's Profile Views" />
+</div>
