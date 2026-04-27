@@ -1,9 +1,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=250&section=header&text=Ambuj%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Architecting%20Systems%20%7C%20Maths%20%2B%20CS&descAlignY=55&descAlign=50" />
+  <h2>Welcome to AJ's World 🌊</h2>
 </div>
 
+
 <a href="https://github.com/aj-6396">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Welcome+to+AJ%27s+World+%F0%9F%8C%8A;Hi%2C+I%27m+Ambuj+Singh;From+Logic+to+Architecture;Building+Smart+Systems" alt="Typing SVG Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Ambuj+Singh;From+Logic+to+Architecture+Building+Smart+Systems" alt="Typing SVG Animation" />
 </a>
 
 <p align="center">
