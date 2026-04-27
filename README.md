@@ -1,10 +1,9 @@
 <div align="center">
-
-<h1 align="center">Ambuj Singh</h1>
-<h3 align="center">Architecting Systems | Maths + CS</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=250&section=header&text=Ambuj%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Architecting%20Systems%20%7C%20Maths%20%2B%20CS&descAlignY=55&descAlign=50" />
+</div>
 
 <a href="https://github.com/aj-6396">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Welcome+to+AJ's+World+🌊;Hi%2C+I'm+Ambuj+Singh;From+Logic+to+Architecture;Building+Smart+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Welcome+to+AJ%27s+World+%F0%9F%8C%8A;Hi%2C+I%27m+Ambuj+Singh;From+Logic+to+Architecture;Building+Smart+Systems" alt="Typing SVG Animation" />
 </a>
 
 <p align="center">
@@ -13,13 +12,13 @@
 </p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://aj-birthday.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:ambuj02103@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=plastic&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/ambujsingh07"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/its._.aj_7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" alt="Instagram" /></a>
+ <!-- <a href="https://aj-birthday.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=vercel&logoColor=white" alt="Portfolio" /></a>-->
 </p>
 
 </div>
-
 ---
 
 ### ⚡ Technical Arsenal
@@ -38,10 +37,12 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   
-  <br><p align="center"><b>Backend & Infrastructure</b></p>
+  <br><p align="center"><b>Backend, Database & Infrastructure</b></p>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 
 </div>
 
@@ -52,12 +53,19 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">AttendSmart</h3>
+      <h3 align="center">Classmark</h3>
       <p align="center"><b>Enterprise Attendance Infrastructure</b></p>
       <p>A high-performance, automated attendance management system engineered to handle large-scale concurrent requests. Built with a focus on data integrity, seamless UX, and robust backend logic.</p>
       <p align="center">
+        <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <br>
+        <img src="https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <br>
+        <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
